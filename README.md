@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity  and Ethical Hacking Enthusiast | C/C++,Java,Python Programmer | Exploring AI & ML & Network Security | Building tools to detect, defend & innovate
+Cybersecurity  and Ethical Hacking Enthusiast | Blockchain |C/C++,Java,Python Programmer | Exploring AI & ML & Network Security | Building tools to detect, defend & innovate
 
 
 ## 🌐 Socials:
